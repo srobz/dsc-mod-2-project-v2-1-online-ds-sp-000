@@ -21,19 +21,18 @@ The questions that are answered throughout this project are:
 
 ### 1.What features have the highest correlation with price?
 It was determined that grade (house rating), latitude, and bathrooms have the highest correlation with price. Using just these features to make a quick model, it appears as though they can explain approximately 54% of our price data.
-![graph](https://raw.githubusercontent.com/srobz/dsc-mod-1-project-v2-1-online-ds-sp-000/master/Graphs/Top10TotalStudios.png)
+![graph](https://raw.githubusercontent.com/srobz/dsc-mod-2-project-v2-1-online-ds-sp-000/master/Visualizations/FeaturesImpactingPrice.png)
 
 
 ### 2. Does grade vary by location?
 Mapping out the grade variations by location (using longitude and latitude) was helpful in visualizing the spread of houses but there was no discernible pattern to the spread; there were mainly clusters of similarly graded houses surrounded by clusters of other similarly graded houses.
-![graph](https://raw.githubusercontent.com/srobz/dsc-mod-1-project-v2-1-online-ds-sp-000/master/Graphs/IMDBTop10GenresRating.png)
-
-![graph](https://raw.githubusercontent.com/srobz/dsc-mod-1-project-v2-1-online-ds-sp-000/master/Graphs/RTTop10GenresRating.png)
+![graph](https://raw.githubusercontent.com/srobz/dsc-mod-2-project-v2-1-online-ds-sp-000/master/Visualizations/GradeVaryLocation.png)
 
 
 ### 3. Is the number of bathrooms or number of bedrooms more important?
 In order to determine if bathrooms or bedrooms were important, I created a graph to visualize the spread, however the graph did not help indicate one over the other. I individually modeled each feature to see which explains more of the data. It was determined that bathrooms are more important, as they explain aproximately 18% of our price data while bedrooms only explain approximately 8.2% of our price data.
-![graph](https://raw.githubusercontent.com/srobz/dsc-mod-1-project-v2-1-online-ds-sp-000/master/Graphs/Top10BudgetsDomFor.png)
+![graph](https://raw.githubusercontent.com/srobz/dsc-mod-2-project-v2-1-online-ds-sp-000/master/Visualizations/BathroomsVsBedrooms.png)
+
 
 ## Model Validation
 
