@@ -55,4 +55,5 @@ Below are the three features that have the highest impact on price; grade, floor
 - ['Module 2 Project - 2. Data Exploration.ipynb'] : Jupyter notebook of Data Exploration with code and comments
 - ['Module 2 Project - 3. Modeling.ipynb'] : Jupyter notebook of Modeling with code and comments
 - [Module 2 Presentation.pdf] : Project presentation
+- ['Visualizations'] : Folder containing graphs used in presentation and ReadME
 - [README.md] : ReadMe
